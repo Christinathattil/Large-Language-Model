@@ -1,0 +1,36 @@
+STUDENT_ID,NAME,CLASS,SECTION,MARKS
+1,Christina,AIML,A,85
+2,Sharon,Data Science,B,92
+3,Jianna,Data Science,B,74
+4,Merlin,AIML,B,69
+5,Jos,Data Science,A,88
+6,Sunitha,AIML,A,91
+
+COURSE_ID,COURSE_NAME,INSTRUCTOR
+C101,AIML,Dr. Smith
+C102,AIML,Dr. John
+C103,Data Science,Dr. Lisa
+C104,Deep Learning,Dr. Mark
+C105,NLP,Dr. Emily
+
+ENROLLMENT_ID,STUDENT_ID,COURSE_ID,ENROLLMENT_DATE
+1,1,C101,2025-02-10
+2,2,C103,2025-02-10
+3,3,C103,2025-02-10
+4,4,C102,2025-02-10
+5,5,C103,2025-02-10
+6,6,C101,2025-02-10
+
+INSTRUCTOR_ID,INSTRUCTOR_NAME,DEPARTMENT
+I001,Dr. Smith,Computer Science
+I002,Dr. John,AIML
+I003,Dr. Lisa,Data Science
+I004,Dr. Mark,Deep Learning
+I005,Dr. Emily,NLP
+
+DEPARTMENT_ID,DEPARTMENT_NAME,HOD
+D001,Computer Science,Dr. Williams
+D002,AIML,Dr. Johnson
+D003,Data Science,Dr. Brown
+D004,Deep Learning,Dr. Davis
+D005,NLP,Dr. Taylor
